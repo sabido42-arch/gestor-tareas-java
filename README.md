@@ -10,6 +10,7 @@ Aplicación de consola desarrollada en Java para gestionar tareas utilizando Pro
 - Ver lista de tareas
 - Marcar tareas como completadas
 - Eliminar tareas
+- Identificación de tareas mediante ID único.
 
 ---
 
@@ -35,7 +36,7 @@ src/
 ## ▶️ Cómo ejecutar el proyecto
 
 1. Abrir el proyecto en Eclipse.
-2. Ejecutar la clase `GestionTareas.java`.
+2. Ejecutar la clase `GestionTareas`.
 3. Usar el menú de consola para interactuar.
 
 ---
